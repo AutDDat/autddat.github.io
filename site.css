@@ -1,0 +1,112 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #d9e2ef;
+    font-size: 100%;
+    line-height: 1.5;
+
+
+}
+h1 {
+    text-align: center;
+    color: #000;
+    background-color: turquoise;
+    padding: 25px;
+    border-bottom: 5px solid teal;
+    font-size: 50px;
+
+
+}
+h2 {
+    text-align: center;
+    color: #000;
+    background-color: turquoise;
+    padding: 25px;
+    font-size: 30px;
+    margin-bottom: 25px;
+
+
+}
+p {
+    text-align: justify;
+    font-family:"Open Sans","Arial", sans-serif;
+    margin: 20px 0;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+footer {
+    color: white;
+    background-color: #000;
+}
+blockquote {
+    background-color: white;
+    border: 5px solid teal;
+
+}
+aside {
+    background-color: teal;
+    color: white;
+    text-align: center;
+
+}
+a {
+    color: #40e0d0;
+   }
+   blockquote, aside, footer {
+    padding: 20px;
+   }
+
+strong {
+    font-weight: bold;
+   }
+em {
+    font-style: italic;
+   }
+.icones-das-redes li {
+    display: inline-block;
+}
+
+nav a{
+    text-transform: uppercase;
+}
+
+.imagem-eu{
+    background-color: transparent;
+    position: fixed;
+    float: right;
+    width: 180%;
+    box-sizing: border-box;
+    margin-top: -146px;
+    padding: unset;
+
+}
+.bloco-de-cit{
+    margin: 40px 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    width: 500px;
+}
+.naveg {
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-top: 50;
+
+}
+.cab{
+    width: 82%;
+}
+.rod{
+    width: 97%;
+    clear: both;
+}
+
+.txtesp{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.txtcenter{
+    text-align: center;
+}
+.adjusttxt {
+    background-color: unset;
+}
